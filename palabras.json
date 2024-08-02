@@ -1,0 +1,37 @@
+{
+    "Animales": [
+        "elefante",
+        "jirafa",
+        "cocodrilo",
+        "pinguino",
+        "murcielago"
+    ],
+    "Países": [
+        "españa",
+        "argentina",
+        "australia",
+        "egipto",
+        "tailandia"
+    ],
+    "Profesiones": [
+        "medico",
+        "ingeniero",
+        "profesor",
+        "abogado",
+        "astronauta"
+    ],
+    "Frutas": [
+        "manzana",
+        "platano",
+        "fresa",
+        "kiwi",
+        "melocoton"
+    ],
+    "Deportes": [
+        "futbol",
+        "tenis",
+        "natacion",
+        "baloncesto",
+        "atletismo"
+    ]
+}
